@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>code/beans</module>
+    <module>jobs/process/vivek_test_job_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TALEND731CICDDEMO</talend.project.name>
